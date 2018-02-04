@@ -1,2 +1,6 @@
 *.class
 *.log
+
+# customized ignores
+notes.md
+wcbot-arch.*
